@@ -58,4 +58,4 @@ The disadvantage of the original code is that it did not have a tickerIndex vari
 
 The advantage of the original code is that the VBA script is shorter and doesn't involve the time it takes to incorporate the tickerIndex variable.
 
-The disadvantage of the refactored code is that the VBA script is a bit longer and involves the times it take to incorporate the tickerIndex variable, and overall, takes more time to build.
+The disadvantage of the refactored code is that the VBA script is a bit longer and involves the time it take to incorporate the tickerIndex variable, and overall, takes more time to build.
